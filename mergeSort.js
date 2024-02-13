@@ -28,5 +28,5 @@ function mergeSort(array) {
         merge.push(right[j]);
     }
 
-    return merge
+    return merge;
 }
